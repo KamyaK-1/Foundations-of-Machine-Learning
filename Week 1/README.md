@@ -1,7 +1,7 @@
 # Basics of Python and Numpy
 ## Python
 
-Let us start this project by learning about Python. This is one of the easiest languages to learn. Prior codine experience might be useful but not necessary.
+Let us start this project by learning about Python. This is one of the easiest languages to learn. Prior coding experience might be useful but not necessary.
 Here are some resources to get started:
 - [Youtube Tutorial](https://youtu.be/_uQrJ0TkZlc?si=kxQhvVWxmTY-IR6s)
 - [w3schools](https://www.w3schools.com/python/default.asp)
