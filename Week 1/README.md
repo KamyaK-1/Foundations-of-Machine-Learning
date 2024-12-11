@@ -25,6 +25,10 @@ Instead of writing the traditional python scripts, we will be using **Jupyter No
 They allow for interactive coding, making it easy to run code snippets and see results immediately.
 Checkout this [video](https://youtu.be/HW29067qVWk?si=ur1Cqn8wDdcfwuUf&t=163) to learn how to install the required software and how to create and run **.ipynb** files
 
+
+If you wish to work on VS Code itself, you may checkout this [video](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
+
+
 ## Git and Github
 Though it's not necessary to go into the details of git for this project, having knowledge of a few basic commands would be helpful.
 Here's a link to the official [Github documentation](https://docs.github.com/en/get-started/start-your-journey/hello-world). You only need to know the commands given in the __Hello World__ page.
