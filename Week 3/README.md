@@ -11,4 +11,4 @@ You might find the videos slow, so feel free to watch them at a faster speed.
 ## Assignment 
 Learning to implement logistic regression from scratch fosters a deeper understanding of the algorithm's mechanics, parameter optimization using gradient descent and model evaluation.
 
-For this week's assignment, you will build a gradient descent model that predicts the chance of having Heart Disease on this [https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression](dataset).
+For this week's assignment, you will build a gradient descent model that predicts the chance of having Heart Disease on this (https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression)[dataset].
