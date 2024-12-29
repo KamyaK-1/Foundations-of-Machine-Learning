@@ -1,4 +1,4 @@
-# Week 3 
+# Linear and Logistic Regression
 Before we learn about full-fledged neural networks, we will understand one of the most fundamental machine learning techniques - regression.
 
 ## Resources
